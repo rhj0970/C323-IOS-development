@@ -1,0 +1,15 @@
+Team 16 - Saffron
+
+MVC Design Pattern: 40/40 100%
+
+All Required UI Elements: 30/30 100%
+
+Use of 1 Framework: 30/30 100%
+
+Total: 100/100 100%
+
+========
+UML Evaluation Criteria
+
+Documentation: Excellent 100%
+Specifications: Excellent 100%

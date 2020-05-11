@@ -1,0 +1,4 @@
+For my app, the main function of the "Foraging App" is to create a virtual enviroment for a experiment room.
+This app can provide virtual enviroment via smartphone and gives easier access to virtual experiment room.
+One of the problem of the app would be the server. Since it need different client server to show different experiment room,
+it requries client servers. However, I haven't learned it yet. So I hope I can fix this issue after I learn from class.
