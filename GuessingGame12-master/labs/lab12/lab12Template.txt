@@ -1,0 +1,53 @@
+B323 Lab12 02/20/2020
+
+Nouns are candidates for...
+
+Verbs are candidates for...
+
+To avoid a typical problem: write algorithms rather than loops in the model --> Model doesn't decide how the game goes...
+sequence is necessary for the user-interaction. Model doesn't deal with it, or the user won't interact with the controller efficiently.
+
+
+Even-Driving Programming:
+basic 3 types:
+Interactional algorithms - 323
+Object-oriented algorithms - 322, 212
+functional algorithms - 403, 343
+
+Design the controller-->
+Events
+Reaction to events 
+Event handler interaction with Model
+What the sequence required to do interaction
+Timeline!!
+
+controller:
+
+  Events:
+  1. Start
+  2. User input a number
+  3. IBOutlet displays a Text(result given to view)
+  4. User re inputs a number
+  5. when user won
+  6. User use restart
+
+
+  Method:
+  1--> displayRange() 
+  1--> generateRandomNum
+  2--> getNum/resetNum 4-->
+  2--> compareNum  4-->
+  2--> countSteps 4-->
+  2--> disPlayResult -->4 & 4-->
+  5--> displaySteps
+  6--> initialization --> 1
+  
+  Variables:
+  RangNum
+  Generated number
+  IBAction(to button): UserInputNum;
+  IBOutlet: Output Text;
+  
+  
+*IBOutlet -- connecting with view: set value to outlook
+ 
