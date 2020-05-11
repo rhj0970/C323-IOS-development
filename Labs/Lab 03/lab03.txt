@@ -1,0 +1,16 @@
+Lab 03
+1/21/2020
+
+C323 spring 2020
+
+Jason Ryu
+
+
+I can see the color from SceneDidBecomeActive in the simulator, when I first start the app
+I can see the color from sceneWillEnterForeground when first start the app and then it stay for only couple seconds.
+I can see the color from sceneDidEnterBackground when the app shows in the background.
+Lastly, I can see the SceneWillResignActive in the simulator when app is closing and when going back to the background.
+
+
+ 
+
